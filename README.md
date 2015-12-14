@@ -14,7 +14,7 @@ https://www.themoviedb.org/account/[your account name]
 
 Chose API from the menu on the left.  Drill down to create an API key.   
 
-Next, add  your API key to the code by adding the following to you ~/.gradle/gradle.properties file:
+Next, add  your API key to the code by adding the following to your ~/.gradle/gradle.properties file:
   
 MyTheMovieDbApiKey="[Your API key]"
 
