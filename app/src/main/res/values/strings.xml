@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <string name="app_name">Popular Movies</string>
+ <string name="action_settings">Settings</string>
+ <string name="title_activity_detail">Movie Details</string>
+ <string name="title_activity_settings">Settings</string>
+ <string name="pref_sort_order_label">Sort Order</string>
+ <string name="pref_sort_order_label_most_popular">Most Popular</string>
+ <string name="pref_sort_order_label_highest_rated">Highest Rated</string>
+ <string name="pref_sort_order_key" translatable="false">sort_order</string>
+ <string name="pref_sort_order_most_popular" translatable="false">popularity.desc</string>
+ <string name="pref_sort_order_highest_rated" translatable="false">vote_average.desc</string>
+ <string name="tmdb_results" translatable="false">results</string>
+ <string name="tmdb_poster_path" translatable="false">poster_path</string>
+ <string name="tmdb_overview" translatable="false">overview</string>
+ <string name="tmdb_release_date" translatable="false">release_date</string>
+ <string name="tmdb_id" translatable="false">id</string>
+ <string name="tmdb_title" translatable="false">title</string>
+ <string name="tmdb_vote_count" translatable="false">vote_count</string>
+ <string name="tmdb_vote_average" translatable="false">vote_average</string>
+ <string name="tmdb_base_url" translatable="false">http://api.themoviedb.org/3/discover/movie?</string>
+ <string name="tmdb_sort_by_key" translatable="false">sort_by</string>
+ <string name="tmdb_api_key_key" translatable="false">api_key</string>
+ <string name="log_error">"Error "</string>
+ <string name="log_stream_close_error">Error closing movie reader stream</string>
+ <string name="tmdb_image_size_185" translatable="false">185</string>
+ <string name="tmdb_image_size_342" translatable="false">342</string>
+ <string name="tmdb_image_size_500" translatable="false">500</string>
+ <string name="tmdb_base_image_url" translatable="false">http://image.tmdb.org/t/p/w</string>
+
+</resources>
